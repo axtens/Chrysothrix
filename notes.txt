@@ -1,0 +1,2 @@
+Wed 08/14/2019  6:57:50.27:
+	Sends Control-T to Firefox's window if not null
